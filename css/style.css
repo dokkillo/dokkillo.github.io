@@ -3,12 +3,17 @@ body {
   background-size: cover;
 }
 
+.flags{
+  width:50px;
+}
+.porfolioItem{
+  padding:1em;
+}
+
 #wrapper {
   padding-left: 0;
   -webkit-transition: all 0.5s ease;
-  -moz-transition: all 0.5s ease;
-  -o-transition: all 0.5s ease;
-  transition: all 0.5s ease;
+          transition: all 0.5s ease;
  
 }
 
@@ -28,9 +33,7 @@ body {
   overflow-y: auto;
   background: #000000;
   -webkit-transition: all 0.5s ease;
-  -moz-transition: all 0.5s ease;
-  -o-transition: all 0.5s ease;
-  transition: all 0.5s ease;
+          transition: all 0.5s ease;
 }
 
 #wrapper.toggled #sidebar-wrapper {
@@ -56,7 +59,7 @@ body {
   z-index: 1000;
   width: 250px;
   margin: 0;
-  padding: 0;
+  padding: 10px;
   list-style: none;
 }
 
@@ -67,12 +70,14 @@ body {
 .sidebar-nav li {
   text-indent: 20px;
   line-height: 40px;
+  padding-left:10px;
 }
 
 .sidebar-nav li a {
   display: block;
   text-decoration: none;
   color: #FFF;
+  font-family: 'Raleway', sans-serif;
 }
 
 .sidebar-nav li a:hover {
@@ -101,49 +106,114 @@ body {
   background: none;
 }
 
-#section1 {
-  background: url('http://imagizer.imageshack.us/a/img538/2431/tvrPC9.jpg') 100% 0 no-repeat fixed;
-  min-height: 1000px;
+section{
   margin: 0 auto;
   width: 100%;
   max-width: 1920px;
   position: relative;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-#section2 {
-  background: url('http://pixelcog.github.io/parallax.js/img/stellar-spire-eagle-nebula-1400x900.jpg') 80% 0 no-repeat fixed;
-  min-height: 1000px;
-  margin: 0 auto;
-  width: 100%;
-  max-width: 1920px;
-  position: relative;
-  -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background-size: cover;
+  
+}
+
+
+#sectionAboutMe1 {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/f/f7/Winter_2004_DreamHack_LAN_Party.jpg') 100% 0 no-repeat fixed;
+  min-height: 580px;
+}
+
+.sectionText {
+  background: #FFF 100% 0 no-repeat fixed;  
+  min-height: 300px; 
+  z-index:3000;
+}
+
+.textMain {
+   font-family: 'Raleway', sans-serif;
+  font-size:2em;
+  padding:2.5em 3em;
+}
+
+
+.sectionText div h2
+{
+  font-size:2.5em;
+}
+
+#sectionAboutMe2 {
+  background: url('http://imagizer.imageshack.us/a/img538/2431/tvrPC9.jpg') no-repeat center center fixed;
+  min-height: 400px;
   background-size: cover;
 }
 
-#section3 {
-  background: url('http://www.9freepictures.com/d/file/travel-tours/200911/iceland-scenery-130-2.jpg') 50% 0 no-repeat fixed;
-  min-height: 1000px;
-  margin: 0 auto;
-  width: 100%;
-  max-width: 1920px;
-  position: relative;
-  -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+#sectionAboutMe3 {
+  background: url('https://lh3.googleusercontent.com/QnC7zv20j-XCU11PtsE1Y7yEkcK1iEI3YreaNOXyXg0=w1154-h865-no') no-repeat center center fixed;
+  min-height: 500px;
   background-size: cover;
 }
 
+#sectionPortolioIntro {
+  background: url('http://www.listrental.co.uk/style/images/art/software-list.jpg') no-repeat center center fixed;
+  min-height: 400px;
+  background-size: cover;
+}
+
+#sectionPortolio1 {
+  background: url('http://insights.dice.com/wp-content/uploads/2013/09/code.jpg') no-repeat center center fixed;
+  min-height: 300px;
+  background-size: cover;
+}
+
+
+#sectionContact {
+  background: url('http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/10/28/1414524658378/an-empty-office-014.jpg') no-repeat center center fixed;
+  min-height: 500px;
+  background-size: cover;
+}
 .toTop {
   display:none;
 }
+
+
+#sectionAboutMe1 span{
+   font-family: 'Bangers', cursive;  
+  color:#FFF;
+  height:10em;     
+    right: 0px;
+    width: 10em;
+  margin-top:-5em;
+  position:absolute;
+}
+
+#DataTitle
+{  
+  font-size: 5em;
+  top:65%;  
+  max-width: 100%
+}
+
+#fullStackTitle
+{
+  font-size: 5em;
+  top:80%;
+  max-width: 100%
+}
+
+#lang1Title
+{ 
+  font-size: 3em;
+  top:92%;  
+  max-width: 100%
+}
+#lang2Title
+{  
+  font-size: 3em;
+  top:103%;  
+  max-width: 100%
+}
+
+.spanish{
+  display:none;
+}
+
+
