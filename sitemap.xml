@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://dokkillo.in/</loc>
+    <lastmod>2016-08-29T19:54:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dokkillo.in/post/Posiciones-en-css/</loc>
+    <lastmod>2016-08-29T19:54:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dokkillo.in/post/bootstrap/</loc>
+    <lastmod>2016-08-29T19:53:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dokkillo.in/post/usando-hugo/</loc>
+    <lastmod>2016-08-29T19:41:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dokkillo.in/post/nueva-web/</loc>
+    <lastmod>2016-08-29T19:41:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dokkillo.in/post/good-to-great/</loc>
+    <lastmod>2016-08-23T21:01:28+02:00</lastmod>
+  </url>
+  
+</urlset>

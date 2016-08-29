@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dokkillo</title>
+    <link>http://dokkillo.in/</link>
+    <description>Recent content on Dokkillo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 29 Aug 2016 19:54:04 +0200</lastBuildDate>
+    <atom:link href="http://dokkillo.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posiciones en css</title>
+      <link>http://dokkillo.in/post/Posiciones-en-css/</link>
+      <pubDate>Mon, 29 Aug 2016 19:54:04 +0200</pubDate>
+      
+      <guid>http://dokkillo.in/post/Posiciones-en-css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrap</title>
+      <link>http://dokkillo.in/post/bootstrap/</link>
+      <pubDate>Mon, 29 Aug 2016 19:53:40 +0200</pubDate>
+      
+      <guid>http://dokkillo.in/post/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usando hugo</title>
+      <link>http://dokkillo.in/post/usando-hugo/</link>
+      <pubDate>Mon, 29 Aug 2016 19:41:16 +0200</pubDate>
+      
+      <guid>http://dokkillo.in/post/usando-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nueva web</title>
+      <link>http://dokkillo.in/post/nueva-web/</link>
+      <pubDate>Mon, 29 Aug 2016 19:41:08 +0200</pubDate>
+      
+      <guid>http://dokkillo.in/post/nueva-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>good to great</title>
+      <link>http://dokkillo.in/post/good-to-great/</link>
+      <pubDate>Tue, 23 Aug 2016 21:01:28 +0200</pubDate>
+      
+      <guid>http://dokkillo.in/post/good-to-great/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
